@@ -1,4 +1,4 @@
-# **Coleta Proffer**
+# **Coleta e-commerce**
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Duannee/coleta_proffer/blob/main/LICENSE)
 
 ---
@@ -17,7 +17,7 @@
 
 ## Introdução
 
-**Coleta Proffer** é uma solução para coletar informações de preços de produtos do site Preço da Hora Bahia para as cidades de Salvador de Feira de Santana. 
+**Coleta e-commerce** é uma solução para coletar informações de preços de produtos do site Preço da Hora Bahia para as cidades de Salvador de Feira de Santana. 
 [Preço da Hora Bahia](https://precodahora.ba.gov.br/)
 
 ---
